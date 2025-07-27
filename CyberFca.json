@@ -37,7 +37,7 @@
 		"Version": ""
 	},
 	"CheckPointBypass": {
-		"956": {
+		"856809": {
 			"Allow": false,
 			"Difficult": "Easy",
 			"Notification": "Turn on with AutoLogin!"
